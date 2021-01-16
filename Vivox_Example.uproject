@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.25",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "VivoxCore",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d4d29cc6d06f484b9e02caa32b1acf8f"
+		}
+	]
 }
